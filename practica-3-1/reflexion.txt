@@ -1,1 +1,1 @@
-
+A lo largo de esta práctica logré afianzar el uso de etiquetas de estructura básica, etiquetas semánticas sin divs, listas, tablas y formularios con validación. Todavía necesito consultar ocasionalmente algunos atributos específicos en la hoja de referencia, pero mi velocidad al maquetar mejoró notablemente desde la primera ronda hasta el reto final.
